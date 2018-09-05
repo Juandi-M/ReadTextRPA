@@ -1,0 +1,14 @@
+{
+  "name": "My-First-Robot",
+  "description": "MyFirstRobot",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6821.20115",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
